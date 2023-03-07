@@ -8,6 +8,7 @@
     "@minolettinat/proxy-figma-export-transform-svg-with-svgo": "^4.5.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:icons": "figma-export use-config export/figmaexportrc.js"
   }
 }
