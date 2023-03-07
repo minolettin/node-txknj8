@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "dependencies": {
+    "@minolettinat/proxy-figma-export-cli": "4.5.2",
+    "@minolettinat/proxy-figma-export-output-components-as-svg": "4.5.1",
+    "@minolettinat/proxy-figma-export-output-components-as-svgstore": "^4.5.3",
+    "@minolettinat/proxy-figma-export-transform-svg-with-svgo": "^4.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
